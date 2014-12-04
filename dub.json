@@ -1,0 +1,8 @@
+{
+	"name": "pam-d",
+	"copyright": "Copyright © 2014, crom",
+	"authors": ["crom"],
+	"libs": ["pam"],
+	"dependencies": {
+	}
+}
