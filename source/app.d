@@ -94,7 +94,6 @@ void main(string[] args)
 	printUID();
 
 	import std.file;
-	foreach(f ; dirEntries("/root", SpanMode.shallow))
-		writeln(f.name);
+	mkdir("testRights");
 
 }
